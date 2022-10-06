@@ -1,0 +1,12 @@
+package com.validators.entities;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class RegistrationController {
+	@RequestMapping("/view")
+	public String viewReg() {
+		return "view_reg";
+	}
+}

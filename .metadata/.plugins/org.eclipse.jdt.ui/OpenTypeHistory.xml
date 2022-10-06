@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=marketingapp1/C:\/Users\/Batman\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.7.2\/spring-data-jpa-2.7.2.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/2.7.2=/=/maven.scope=/compile=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1661429537773"/>
+    <typeInfo handle="=marketingapp1/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.marketing.utilities{EmailService.java[EmailService" modifiers="513" timestamp="1663704605085"/>
+    <typeInfo handle="=zohocrmapp2/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.zohocrm.services{ContactService.java[ContactService" modifiers="513" timestamp="1664123950341"/>
+    <typeInfo handle="=zohocrmapp2/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.zohocrm.services{BillingService.java[BillingService" modifiers="513" timestamp="1664130624223"/>
+    <typeInfo handle="=zohocrmapp2/C:\/Users\/Batman\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.7.3\/spring-data-jpa-2.7.3.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/2.7.3=/=/maven.scope=/compile=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1663868318579"/>
+</typeInfoHistroy>

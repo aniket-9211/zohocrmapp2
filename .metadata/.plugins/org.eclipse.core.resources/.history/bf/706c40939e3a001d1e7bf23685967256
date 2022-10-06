@@ -1,0 +1,15 @@
+package com.zohocrm.entities;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "leads")
+public class Lead {
+	private long id;
+	private String firstName;
+	private String lastName;
+	private String email;
+	private long mobile;
+	private String source;
+}

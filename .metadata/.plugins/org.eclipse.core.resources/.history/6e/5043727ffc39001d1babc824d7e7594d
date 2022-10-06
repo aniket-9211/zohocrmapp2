@@ -1,0 +1,12 @@
+package com.zohocrm.entities;
+
+public class Lead {
+	private long id;
+	private String firstName;
+	private String lastName;
+	private String email;
+	private long mobile;
+	private String source;
+	
+	
+}

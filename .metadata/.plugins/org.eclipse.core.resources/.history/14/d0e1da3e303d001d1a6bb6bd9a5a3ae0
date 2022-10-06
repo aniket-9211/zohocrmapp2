@@ -1,0 +1,12 @@
+package com.validators.entities;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Registration {
+	private long id;
+	private String name;
+	private String email;
+	private long mobile;
+	
+}

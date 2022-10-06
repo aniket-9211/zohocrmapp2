@@ -1,0 +1,10 @@
+package com.zohocrm.utilities;
+
+public class EmailServiceImpl implements EmailService{
+
+	@Override
+	public void sendEmail(String to, String sub, String email) {
+		
+	}
+
+}

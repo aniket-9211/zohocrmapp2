@@ -1,0 +1,13 @@
+package com.zohocrm.services;
+
+import com.zohocrm.entities.Billing;
+
+public class BillingServiceImpl implements BillingService {
+
+	@Override
+	public void saveBill(Billing bill) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

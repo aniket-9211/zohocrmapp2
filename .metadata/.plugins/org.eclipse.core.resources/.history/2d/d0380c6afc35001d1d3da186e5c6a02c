@@ -1,0 +1,24 @@
+package com.cruddemo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
+
+import com.cruddemo.entity.Student0;
+import com.cruddemo.repository.Student0Repository;
+
+@SpringBootTest
+class CrudDemo1ApplicationTests {
+	
+	@Autowired
+	private Student0Repository studentRepo;
+	//autowired creates object and gives address to studentRepo
+	
+	@Test
+	void saveOneStudentInfo() {
+		Student0 s = new Student0();
+		s.setName("Aniket");
+		s.setCourse("Full Stack");
+		s.setFee(22000);
+	}
+}

@@ -1,0 +1,12 @@
+package com.zohocrm.services;
+
+import com.zohocrm.entities.Contact;
+
+public class ContactServiceImpl implements ContactService {
+
+	@Override
+	public void saveOneContact(Contact contact) {
+
+	}
+
+}

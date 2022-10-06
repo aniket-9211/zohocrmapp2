@@ -1,0 +1,12 @@
+package com.zohocrm.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+
+import com.zohocrm.utilities.EmailService;
+
+@Controller
+public class EmailController {
+	@Autowired
+	private EmailService emailService;
+}

@@ -1,0 +1,18 @@
+package com.zohocrm.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.zohocrm.entities.Lead;
+import com.zohocrm.repositories.LeadRepository;
+
+public class LeadServiceImpl implements LeadService {
+	
+	@Autowired
+	private LeadRepository leadRepo;
+	
+	@Override
+	public void saveOneLead(Lead lead) {
+		leadRepo.save(lead);
+	}
+
+}
